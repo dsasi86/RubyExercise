@@ -1,0 +1,5 @@
+[Command: ruby F:\Ruby\.git\Ex1.rb]
+hello world!
+hi welcome
+simple exercise
+[Finished in 0.204s]

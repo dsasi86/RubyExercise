@@ -1,0 +1,15 @@
+[Command: ruby F:\Ruby\.git\EX9.rb]
+I'm 5'8" tall
+I'm 5'8" tall
+	 I'm Tabbed in
+ This is Split
+ on new line
+ I'm \ a \ human
+ I'll do a list:
+    \t *cat
+    \t *cow
+    \t *fish \n \t *dog 	 I'm Tabbed in
+ This is Split
+ on new line
+"\t I'm Tabbed in\n This is Split \n on new line"
+[Finished in 0.212s]

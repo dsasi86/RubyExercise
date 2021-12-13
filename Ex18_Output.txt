@@ -1,0 +1,8 @@
+[Command: ruby F:\Ruby\.git\Ex18.rb]
+Arg1: sasi
+Arg2: kumar
+Arg1: sasikumar
+Arg2: 35
+Single argument: welcome
+nothing to print
+[Finished in 0.214s]

@@ -1,0 +1,5 @@
+[Command: ruby F:\Ruby\.git\Ex29.rb]
+Not many cats! The world is saved!!
+The world is dry!
+People are greater than or equal to dogs.
+[Finished in 0.205s]

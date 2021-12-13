@@ -1,0 +1,12 @@
+[Command: ruby F:\Ruby\.git\Ex21.rb]
+Addition of 20 + 30
+Subtraction of 75 - 25
+multiplication of 20 * 5
+Division of 100 / 2
+Your age is 50, height is 50, weight is 100 and IQ level is 50
+Division of 50 / 2
+multiplication of 100 * 25
+Subtraction of 50 - 2500
+Addition of 50 + -2450
+Result is -2400
+[Finished in 0.204s]

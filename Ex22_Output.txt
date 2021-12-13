@@ -1,0 +1,18 @@
+[Command: ruby F:\Ruby\.git\EX22.rb]
+Let's Practice everthing.
+'You'd' need to know 'bout escapes with \ that do
+ new line and 	 tabs.
+------------------------------
+Poem:
+ 	Twinkle, Twinkle, Little star
+How i wounder what you are
+Up above the world so high
+
+Like a diamond in the sky
+------------------------------
+Result of sum: 5
+At starting point: 1000
+Beans: 50000 , Jars: 5000 and Crates: 500
+We can do that in this way;
+we have 5000 beans, 500 jars and 50 crates,
+[Finished in 0.207s]

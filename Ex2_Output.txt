@@ -1,0 +1,6 @@
+[Command: ruby F:\Ruby\.git\Ex2.rb]
+9
+16
+sum of x & y is 25
+5.0
+[Finished in 0.226s]

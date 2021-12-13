@@ -1,0 +1,6 @@
+[Command: ruby F:\Ruby\.git\Ex7.rb]
+1 2 3 4
+One two Three Four
+true false true false
+ruby is simple language i started to learn rightnow feel good let see what happen
+[Finished in 0.205s]

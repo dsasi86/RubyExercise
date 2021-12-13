@@ -1,0 +1,14 @@
+[Command: ruby F:\Ruby\.git\Ex26.rb]
+All good things come to those who wait.
+["All", "good", "things", "come", "to", "those", "who", "wait."]
+["All", "come", "good", "things", "those", "to", "wait.", "who"]
+All
+wait.
+All
+who
+["All", "come", "good", "things", "those", "to", "wait.", "who"]
+All
+wait.
+All
+who
+[Finished in 0.21s]

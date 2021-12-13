@@ -1,0 +1,5 @@
+[Command: ruby F:\Ruby\.git\Ex30.rb]
+We should not take the cars.
+May be we could take the trucks.
+Alright, let's just take the trucks.
+[Finished in 0.21s]

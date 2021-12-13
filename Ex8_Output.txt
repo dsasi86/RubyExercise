@@ -1,0 +1,17 @@
+[Command: ruby F:\Ruby\.git\EX8.rb]
+These are days: Sun Mon Tue Wed Thu Fri Sat
+Thease are months: Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+this is different way to print the text instead of " "
+        here used %q for string value
+[Finished in 0.209s]

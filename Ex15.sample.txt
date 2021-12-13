@@ -1,0 +1,9 @@
+
+This is file concept
+emptying the existing content
+
+append new content!!! bye
+this is file concept
+emptying the existing content
+
+write 3 line in the file

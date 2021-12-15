@@ -1,0 +1,23 @@
+[Command: ruby F:\Ruby\.git\Ex32.rb]
+This is count: 1
+This is count: 2
+This is count: 3
+This is count: 4
+This is count: 5
+A fruits of type: apples
+A fruits of type: oranges
+A fruits of type: pears
+A fruits of type: apricots
+I got 1
+I got pennies
+I got 2
+I got dimes
+I got 3
+I got quarters
+Adding 0 to the list
+Adding 1 to the list
+Adding 2 to the list
+Element was 0
+Element was 1
+Element was 2
+[Finished in 0.184s]

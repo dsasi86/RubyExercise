@@ -1,0 +1,42 @@
+[Command: ruby F:\Ruby\.git\Ex33.rb]
+Count at start: 0
+Now number is:
+0
+Count at start: 1
+Now number is:
+0
+1
+Count at start: 2
+Now number is:
+0
+1
+2
+Count at start: 3
+Now number is:
+0
+1
+2
+3
+Count at start: 4
+Now number is:
+0
+1
+2
+3
+4
+Count at start: 5
+Now number is:
+0
+1
+2
+3
+4
+5
+The numbers are :
+0
+1
+2
+3
+4
+5
+[Finished in 0.2s]
